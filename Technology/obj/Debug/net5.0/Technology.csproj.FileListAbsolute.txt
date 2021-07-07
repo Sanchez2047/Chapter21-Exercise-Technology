@@ -1,0 +1,16 @@
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.exe
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.deps.json
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.runtimeconfig.json
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.dll
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\ref\Technology.dll
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\bin\Debug\net5.0\Technology.pdb
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.dll
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\ref\Technology.dll
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.pdb
+C:\Users\sanch\Desktop\launchcode\chapter21-exercise\Technology\obj\Debug\net5.0\Technology.genruntimeconfig.cache

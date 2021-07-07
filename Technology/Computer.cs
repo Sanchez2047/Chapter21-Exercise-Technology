@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Technology
 {
-    public class Computer
+    public class Computer : AbstractEntity
     {
         public const string Brand = "Apple";
         public string ModelName { get; set; }
@@ -14,6 +14,7 @@ namespace Technology
         public double EnergyConsumption { get; set; }
         public double ScreenSize { get; set; }
         public double StandardOperatingTemp { get; set; }
+       
 
         public double EneryPerYear(double hoursPerDay)
         {
@@ -23,7 +24,7 @@ namespace Technology
         }
         public void PrintDetails()
         {
-            Console.WriteLine($"Brand:{Brand}\nModel: {ModelName}\nStorage Capacity: {StorageCapacity}\nScreen Size: {ScreenSize}");
+            Console.WriteLine($"Brand:{Brand}\nModel: {ModelName}\nStorage Capacity: {StorageCapacity}\nScreen Size: {ScreenSize}\n Id:{UniqueId}");
         }
         public Computer(string modelname, double storage, double energy, double screensize)
         {
